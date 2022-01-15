@@ -1,6 +1,3 @@
-# COMP517 Assignment 1
-# Student Name: Sabarinath Muralidharan Sujatha
-# Student ID: 201591883
 
 # global lists, requests and cache
 requests = []
